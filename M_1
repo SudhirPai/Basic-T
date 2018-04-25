@@ -1,0 +1,14 @@
+<html>
+<head><title> Sample Project </title></head>
+<body>
+<h3> Click the button to see Magic !!!</h3>
+<form> 
+    <input type="button" value="Submit" onclick="process()">
+</form>
+<script>
+function process() {
+            alert("CONSIDER IT DONE !!!!");
+                   }
+</script>
+</body>
+</html>
